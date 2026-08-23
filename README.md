@@ -1,4 +1,4 @@
-![Banner logo for womeninsoftwareca](2024-banner-logo-wisca.jpeg)
+![Banner logo for womeninsoftwareca](/assets/global/2025_womeninsoftwarecomputing-wisca-Canada_banner.jpeg)
 
 # Join us in rebuilding the community and continuing the mission of empowering diverse women to excel in technology careers.
 
