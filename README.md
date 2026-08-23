@@ -59,7 +59,7 @@ We are a team of legacy volunteers and leaders who were previously affiliated wi
 Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women Who Code Python Track
 
 ## Media Assets
-[!Global Logo for WomeninSoftwareComputing Canada](2024-logo-wisca.jpg)
+![Global Logo for WomeninSoftwareComputing Canada](2024-logo-wisca.jpg)
 
 ## Colophon
 <sub>© 2024-2026 Women in Software & Computing Canada</sub>
