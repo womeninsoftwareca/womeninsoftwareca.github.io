@@ -3,7 +3,7 @@
 # Join us in rebuilding the community and continuing the mission of empowering diverse women to excel in technology careers.
 
 ## History
-We are a team of legacy volunteers and leaders who were previously affiliated withWomen Who Code Toronto and Women Who Code Vancouver. Please join us in rebuilding community and continuing the mission of empowering diverse women to excel in technology careers.
+We are a team of legacy volunteers and leaders who were previously affiliated with Women Who Code Toronto and Women Who Code Vancouver. Please join us in rebuilding community and continuing the mission of empowering diverse women to excel in technology careers.
 
 On April 18th, 2024, Women Who Code’s CEO and Board of Directors announced the organization is immediately dissolved. Read more about their press release [https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing](https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing)
 
