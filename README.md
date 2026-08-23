@@ -22,7 +22,7 @@ Join us for hands-on workshops, collaborative coding sessions, and networking op
 ## Code of Conduct
 [Code of Conduct guidelines for this project](Codeofconduct.md)
 
-![Banner logo for womeninsoftwareca Toronto](/assets/toronto/2025_womeninsoftwarecomputing-wiscaTO-Toronto_banner.PNG | width=50%)
+![Banner logo for womeninsoftwareca Toronto](/assets/toronto/2025_womeninsoftwarecomputing-wiscaTO-Toronto_banner.PNG)
 ## Toronto Socials
 - [Slack](http://womeninsoftwareca-to.slack.com)
 - [Github](http://www.github.com/womeninsoftwareca)
@@ -35,7 +35,7 @@ Join us for hands-on workshops, collaborative coding sessions, and networking op
 - [Facebook Group](https://www.facebook.com/groups/womeninsoftwarecatoronto)
 - [Lu.ma Events](https://lu.ma/u/usr-Uw8WrKq6dyxKWkW)
 
-![Banner logo for womeninsoftwareca Vancouver](/assets/vancouver/2025_womeninsoftwarecomputing-wisca-Vancouver_banner.PNG | width=50%)
+![Banner logo for womeninsoftwareca Vancouver](/assets/vancouver/2025_womeninsoftwarecomputing-wisca-Vancouver_banner.PNG)
 ## Vancouver Socials
 - [Slack](https://join.slack.com/t/womeninsoftwareca-van/shared_invite/zt-2j48yw8t2-1wIZcBl7o3cosnoclwxVzg)
 - [Github](http://www.github.com/womeninsoftwareca)
@@ -61,9 +61,9 @@ We are a team of legacy volunteers and leaders who were previously affiliated wi
 Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women Who Code Python Track
 
 ## Media Assets
-![Logo for WomeninSoftwareComputing Canada](/assets/global/2025_womeninsoftwarecomputing-wisca-Canada_square.jpg | width=30%)
-![Logo for WomeninSoftwareComputing Toronto](/assets/toronto/2025_womeninsoftwarecomputing-wiscaTO-Toronto_square_1.PNG | width=30%)
-![Logo for WomeninSoftwareComputing Vancouver](/assets/vancouver/2025_womeninsoftwarecomputing-wisca-Vancouver_square_1.PNG | width=30%)
+![Logo for WomeninSoftwareComputing Canada](/assets/global/2025_womeninsoftwarecomputing-wisca-Canada_square.jpg)
+![Logo for WomeninSoftwareComputing Toronto](/assets/toronto/2025_womeninsoftwarecomputing-wiscaTO-Toronto_square_1.PNG)
+![Logo for WomeninSoftwareComputing Vancouver](/assets/vancouver/2025_womeninsoftwarecomputing-wisca-Vancouver_square_1.PNG)
 
 ## Colophon
 <sub>© 2024-2026 Women in Software & Computing Canada</sub>
