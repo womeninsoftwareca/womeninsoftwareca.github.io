@@ -59,7 +59,7 @@ We are a team of legacy volunteers and leaders who were previously affiliated wi
 Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women Who Code Python Track
 
 ## Colophon
-<sub>© 2024-2026 Women in Software Computing & Python</sub>
+<sub>© 2024-2026 Women in Software & Computing Canada</sub>
 
 <sub>_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_</sub>
 
