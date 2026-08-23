@@ -1,5 +1,3 @@
-<sub>~ Legacy Women Who Code Vancouver, Legacy Women Who Code Toronto Local Chapters community</sub>
-
 # Join us in rebuilding the community and continuing the mission of empowering diverse women to excel in technology careers.
 
 ## History
@@ -58,11 +56,15 @@ We are a team of legacy volunteers and leaders who were previously affiliated wi
 ### Eliza Sarobhasa, Founder
 Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women Who Code Python Track
 
+## Media Assets
+(https://github.com/womeninsoftwareca/womeninsoftwareca.github.io/blob/main/2023-logo-wisca.png)
+
 ## Colophon
 <sub>© 2024-2026 Women in Software & Computing Canada</sub>
 
 <sub>_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_</sub>
 
 > [!NOTE]
+> - <sub>~ Legacy Women Who Code Vancouver, Legacy Women Who Code Toronto Local Chapters community</sub>
 > - <sub>https://womeninsoftwareca.github.io/</sub>
 > - <sub>https://www.womeninsoftware.ca</sub>
