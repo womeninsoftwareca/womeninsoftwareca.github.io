@@ -63,9 +63,9 @@ Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women 
 ## Media Assets
 ![Logo for WomeninSoftwareComputing Canada](/assets/global/2025_womeninsoftwarecomputing-wisca-Canada_square.jpg)
 
-![Logo for WomeninSoftwareComputing Toronto](/assets/toronto/2025_womeninsoftwarecomputing-wiscaTO-Toronto_square_1.PNG)
+![Logo for WomeninSoftwareComputing Toronto](/assets/toronto/2025_womeninsoftwarecomputing-wiscaTO-Toronto_square-1.PNG)
 
-![Logo for WomeninSoftwareComputing Vancouver](/assets/vancouver/2025_womeninsoftwarecomputing-wisca-Vancouver_square_1.PNG)
+![Logo for WomeninSoftwareComputing Vancouver](/assets/vancouver/2025_womeninsoftwarecomputing-wiscaVan-Vancouver_square-1.PNG)
 
 ## Colophon
 <sub>© 2024-2026 Women in Software & Computing Canada</sub>
