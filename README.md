@@ -1,4 +1,4 @@
-![Banner logo for womeninsoftwareca](https://github.com/womeninsoftwareca/womeninsoftwareca.github.io/blob/main/2024-banner-logo-wisca.jpeg)
+![Banner logo for womeninsoftwareca](2024-banner-logo-wisca.jpeg)
 
 # Join us in rebuilding the community and continuing the mission of empowering diverse women to excel in technology careers.
 
@@ -59,8 +59,7 @@ We are a team of legacy volunteers and leaders who were previously affiliated wi
 Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women Who Code Python Track
 
 ## Media Assets
-[!Global Logo for WomeninSoftwareComputing Canada]
-(https://github.com/womeninsoftwareca/womeninsoftwareca.github.io/blob/main/2024-logo-wisca.jpg))
+[!Global Logo for WomeninSoftwareComputing Canada](2024-logo-wisca.jpg)
 
 ## Colophon
 <sub>© 2024-2026 Women in Software & Computing Canada</sub>
